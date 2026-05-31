@@ -1,0 +1,28 @@
+[
+  {
+    "candidate_id": "CAND_001",
+    "name": "Arjun Sharma",
+    "skills": ["Python", "FastAPI", "PostgreSQL"],
+    "career_history": [
+      {
+        "title": "Software Engineer",
+        "company": "TechVeda Corp",
+        "description": "Managed standard web endpoints and wrote Python scripts for database migrations."
+      }
+    ],
+    "platform_activity": "Contributed to 2 small internal web scrapers."
+  },
+  {
+    "candidate_id": "CAND_002",
+    "name": "Priya Nair",
+    "skills": ["Python", "C++", "Distributed Systems", "FAISS"],
+    "career_history": [
+      {
+        "title": "Data Infrastructure Architect",
+        "company": "ZettaScale Labs",
+        "description": "Designed and scaled a massive realtime streaming pipeline processing millions of unstructured text documents. Implemented semantic search index frameworks."
+      }
+    ],
+    "platform_activity": "Core maintainer for an open-source vector tool utility patch."
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "title": "Senior AI Systems Engineer",
+  "description": "Looking for an engineer to architect our data infrastructure from scratch. Must be comfortable scaling distributed vector pipelines and handling messy data text layers.",
+  "required_skills": ["Python", "PyTorch", "Vector Databases", "LLMs"]
+}
